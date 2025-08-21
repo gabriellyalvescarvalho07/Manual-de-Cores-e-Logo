@@ -75,14 +75,4 @@ Texto escuro sobre fundo claro
 
 Texto colorido sobre blocos de cor (primária)
 
-✅ Recomendações
-Utilize as cores e escalas conforme indicadas neste guia.
 
-Mantenha a hierarquia tipográfica.
-
-Priorize acessibilidade nas combinações de fundo/texto.
-
-Preserve a integridade do logotipo e das cores institucionais.
-
-📝 Licença
-Este manual é parte da identidade visual institucional. Seu uso é reservado a aplicações autorizadas da marca.
